@@ -40,10 +40,6 @@ GET /sekolah?kabupaten_kota=Kota Tangerang Selatan&bentuk_pendidikan=SMK&status_
 
 ---
 
-Berikut versi dokumentasi yang sudah diperbaiki sesuai kebutuhan: **`keyword` wajib diisi** dan penjelasan diperjelas secara tipografi.
-
----
-
 ## Endpoint: /wilayah
 
 **Method**: `GET`
